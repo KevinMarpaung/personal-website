@@ -136,7 +136,7 @@ export const achievements: Achievement[] = [
     title: "Bapakreraf Developer Day 2023",
     issuer: "Dicoding Indonesia",
     description:
-      "This is to certify that [Your Name] attended the Bapakreraf Developer Day 2023, a significant event focusing on the latest trends, technologies, and best practices in software development. The event provided valuable insights and networking opportunities for developers to enhance their skills and knowledge.",
+      "This is to certify that Kevin A Marpaung attended the Bapakreraf Developer Day 2023, a significant event focusing on the latest trends, technologies, and best practices in software development. The event provided valuable insights and networking opportunities for developers to enhance their skills and knowledge.",
     icon: Award,
     certificateUrl: "https://imgur.com/a/ijXFx1P",
     certificateImage: "https://i.imgur.com/t9URzP4.jpeg",
@@ -160,5 +160,17 @@ export const achievements: Achievement[] = [
     icon: Award,
     certificateUrl: "https://imgur.com/a/e0xv0LP",
     certificateImage: "https://i.imgur.com/Oc9HQx8.jpeg",
+  },
+  {
+    id: 15,
+    title: "Workshop: ReactJS #2",
+    issuer: "Dicoding Indonesia x USU",
+    description:
+      "This is to certify that the participant has successfully completed the Workshop React.js 2. During this workshop, the participant deepened their knowledge and skills in React.js, covering advanced topics such as state management, component lifecycle, hooks, and optimizing React applications for better performance.",
+    icon: Award,
+    certificateUrl:
+      "https://www.freecodecamp.org/certification/Kevin_Marpaung/responsive-web-design",
+    certificateImage:
+      "https://www.classcentral.com/report/wp-content/uploads/2022/02/freecodecamp-certificate.png",
   },
 ];

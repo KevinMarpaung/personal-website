@@ -65,7 +65,7 @@ export const projects: Project[] = [
     description:
       "Aplikasi Movie List ini dirancang untuk menampilkan daftar film lengkap dengan gambar poster dan informasi lainnya, yang diambil dari API TMDB (The Movie Database). Pengguna dapat menjelajahi berbagai film populer, mencari film tertentu, dan mendapatkan detail seperti judul, deskripsi, tanggal rilis, serta poster dari film tersebut. Proyek ini dikerjakan oleh tim yang terdiri dari tiga orang, masing-masing bertanggung jawab atas pengembangan antarmuka pengguna, pengelolaan state aplikasi, dan integrasi API.",
     image: "/imgs/project5.png",
-    tags: ["React", "Tailwind CSS", "Redux"],
+    tags: ["React", "Tailwin d CSS", "Redux"],
     links: {
       github: "https://github.com/azkanaon/challenge-6-binar",
       live: "movie-list-redux-sigma.vercel.app",
